@@ -18,7 +18,7 @@ Or alternatively if you don't want to move it to $PATH
 
 # Sources
 
-Every creation, compilation method of these binaries and licenses were thanks to these repositories
+Every creation, compilation method and licensing of these binaries was thanks to these repositories
 
 [CHDman](https://github.com/charlesthobe/chdman)
 
