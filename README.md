@@ -8,7 +8,6 @@ Move the binary to where you want to run it, it is recommended in $PATH to just 
 
 ```
 mv [binary] $PATH
-
 ```
 
 # Sources
