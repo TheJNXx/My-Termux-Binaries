@@ -7,3 +7,5 @@ A repository for the purpose of sharing utility binaries for the [Termux](https:
 [CHDman](https://github.com/charlesthobe/chdman)
 
 [Librespeed-ClI](https://github.com/librespeed/speedtest-cli)
+
+[YTCast](https://github.com/MarcoLucidi01/ytcast)
