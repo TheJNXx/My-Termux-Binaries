@@ -18,9 +18,9 @@ Or alternatively if you don't want to move it to $PATH
 
 # Sources
 
-Every creation, compilation method of these binaries and licenses were thanks to these repositories:
+Every creation, compilation method of these binaries and licenses were thanks to these repositories
 
-CHDman](https://github.com/charlesthobe/chdman)
+[CHDman](https://github.com/charlesthobe/chdman)
 
 [Librespeed-ClI](https://github.com/librespeed/speedtest-cli)
 
