@@ -18,7 +18,9 @@ Or alternatively if you don't want to move it to $PATH
 
 # Sources
 
-[CHDman](https://github.com/charlesthobe/chdman)
+Every creation, compilation method of these binaries and licenses were thanks to these repositories:
+
+CHDman](https://github.com/charlesthobe/chdman)
 
 [Librespeed-ClI](https://github.com/librespeed/speedtest-cli)
 
