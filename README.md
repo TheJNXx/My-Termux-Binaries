@@ -10,7 +10,7 @@ Move the binary to where you want to run it, it is recommended in $PATH to just 
 mv [binary] $PATH
 ```
 
-O alternativamente si no quieres moverlo al PATH
+Or alternatively if you don't want to move it to $PATH
 
 ```
 ./[binary]
