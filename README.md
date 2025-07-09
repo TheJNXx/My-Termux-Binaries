@@ -20,8 +20,8 @@ Or alternatively if you don't want to move it to $PATH
 
 Every creation, compilation method and licensing of these binaries was thanks to these repositories
 
-[CHDman](https://github.com/charlesthobe/chdman)
+[CHDman](https://github.com/charlesthobe/chdman) - License: MAME - MAME tool for compressing disc images to CHD format
 
-[Librespeed-ClI](https://github.com/librespeed/speedtest-cli)
+[Librespeed-ClI](https://github.com/librespeed/speedtest-cli) - License: LGPL-3.0 license - Command line client for LibreSpeed
 
-[YTCast](https://github.com/MarcoLucidi01/ytcast)
+[YTCast](https://github.com/MarcoLucidi01/ytcast) - License: MIT - Cast YouTube videos to your smart TV from command-line
