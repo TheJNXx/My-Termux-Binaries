@@ -22,6 +22,6 @@ Every creation, compilation method and licensing of these binaries was thanks to
 
 [CHDman](https://github.com/charlesthobe/chdman) - License: MAME - MAME tool for compressing disc images to CHD format
 
-[Librespeed-ClI](https://github.com/librespeed/speedtest-cli) - License: LGPL-3.0 license - Command line client for LibreSpeed
+[Librespeed-ClI](https://github.com/librespeed/speedtest-cli) - License: LGPL-3.0 - Command line client for LibreSpeed
 
 [YTCast](https://github.com/MarcoLucidi01/ytcast) - License: MIT - Cast YouTube videos to your smart TV from command-line
