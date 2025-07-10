@@ -2,9 +2,6 @@
 
 A repository for the purpose of sharing utility binaries for the [Termux](https://github.com/termux/termux-app) app on Android - Aarch64
 
-# TO-DO
-- [ ] Flips - RomPatcher
-
 # Usage
 
 Move the binary to where you want to run it, it is recommended in $PATH to just put the binary name
