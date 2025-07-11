@@ -14,7 +14,7 @@ read install
 if [ $install == "y" ]; then
 	echo "Putting binaries to $PATH"
 	chmod +x *
-	mv flips chdman librespeed-cli ytcast $PATH
+	mv flips chdman librespeed-cli ytcast /data/data/com.termux/files/usr/bin
 	echo "done"
 else
 	echo "aborting script."; exit
